@@ -1,0 +1,10 @@
+git init
+
+
+git remote add origin https://github.com/aquibajanikh/review-project-eif-dubai.git
+git branch -M main
+git push -u origin main
+
+
+git config user.name aquibajanikh
+git config user.email aquib.ajani@knowledgehut.com
